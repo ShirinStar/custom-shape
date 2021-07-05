@@ -1,4 +1,5 @@
 # Custom Shape
+Drag the vertices to customize the shape of the image.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
